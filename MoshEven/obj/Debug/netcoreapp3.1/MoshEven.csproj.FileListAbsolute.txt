@@ -1,0 +1,13 @@
+C:\Users\Danny\source\repos\MoshEven\MoshEven\bin\Debug\netcoreapp3.1\MoshEven.exe
+C:\Users\Danny\source\repos\MoshEven\MoshEven\bin\Debug\netcoreapp3.1\MoshEven.deps.json
+C:\Users\Danny\source\repos\MoshEven\MoshEven\bin\Debug\netcoreapp3.1\MoshEven.runtimeconfig.json
+C:\Users\Danny\source\repos\MoshEven\MoshEven\bin\Debug\netcoreapp3.1\MoshEven.runtimeconfig.dev.json
+C:\Users\Danny\source\repos\MoshEven\MoshEven\bin\Debug\netcoreapp3.1\MoshEven.dll
+C:\Users\Danny\source\repos\MoshEven\MoshEven\bin\Debug\netcoreapp3.1\MoshEven.pdb
+C:\Users\Danny\source\repos\MoshEven\MoshEven\obj\Debug\netcoreapp3.1\MoshEven.csprojAssemblyReference.cache
+C:\Users\Danny\source\repos\MoshEven\MoshEven\obj\Debug\netcoreapp3.1\MoshEven.AssemblyInfoInputs.cache
+C:\Users\Danny\source\repos\MoshEven\MoshEven\obj\Debug\netcoreapp3.1\MoshEven.AssemblyInfo.cs
+C:\Users\Danny\source\repos\MoshEven\MoshEven\obj\Debug\netcoreapp3.1\MoshEven.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\MoshEven\MoshEven\obj\Debug\netcoreapp3.1\MoshEven.dll
+C:\Users\Danny\source\repos\MoshEven\MoshEven\obj\Debug\netcoreapp3.1\MoshEven.pdb
+C:\Users\Danny\source\repos\MoshEven\MoshEven\obj\Debug\netcoreapp3.1\MoshEven.genruntimeconfig.cache
